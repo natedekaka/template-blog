@@ -1,0 +1,59 @@
+v.1.0.0 (12/04/2024)
+    - Rilis versi pertama
+
+v.1.1.0 (15/04/2024)
+    - Perbaikan form komentar terkadang tidak termuat dengan baik
+    - Perbaikan thumbnail error pada postingan yang memuat video youtube
+    - Perbaikan efek loading lazyload tetap terlihat pada gambar dengan background transparan
+    - Cegah auto ads AdSense muncul di header dan menu navigasi label
+    - Tambah opsi buka tutup pada Table of Contents
+    - Tambah indikator loading pada link baca juga di tengah artikel
+    - dan beberapa perbaikan minor lainnya.
+
+v.1.2.0 (18/04/2024)
+    - Perbaikan related posts terkadang tidak muncul jika setelan feed blog diatur ke "Pendek"
+    - Perbaikan iklan tengah artikel menumpuk di bawah postingan jika di postingan tidak ada paragraf
+    - dan beberapa perbaikan minor lainnya.
+
+v.1.3.0 (21/04/2024)
+    - Perbaikan bagian ToC sticky tidak bisa discroll jika melebihi tinggi viewport browser
+    - Perbaikan judul widget Featured Post dan Popular Posts ter-reset setelah upload template versi terbaru
+    - Tambah support video youtube di landing page halaman statis/homepage
+    - dan beberapa perbaikan minor lainnya.
+
+v.1.4.0 (08/05/2024)
+    - Perbaikan tombol share tidak berfungsi jika judul postingan terdapat tanda petik
+    - Perbaikan gambar lightbox postingan terkadang tidak muncul/error
+    - Perbaikan beberapa fitur tidak berfungsi jika menu navigasi dinonaktifkan
+    - dan beberapa perbaikan minor lainnya.
+
+v.1.5.0 (24/06/2024)
+    - Perbaikan gambar lightbox postingan seharusnya tidak aktif jika link bukan gambar
+    - Tambah opsi menonaktifkan fitur gambar lightbox postingan lewat kode pangaturan
+    - Perbaikan schema markup kotak penelusuran sitelink
+    - Perbaikan resolusi gambar logo header terlalu rendah / buram
+    - Perbaikan gambar logo header tidak responsive
+    - dan beberapa perbaikan minor lainnya.
+
+v.1.6.0 (09/10/2024)
+    - Perbaikan error tampilan testimonial landing page versi darkmode
+    - Perbaikan kode CSS custom formating tidak berfungsi di homepage
+    - Pindah navigasi komentar (di atas 200) ke bagian atas
+    - Fitur darkmode bisa diatur default ke mode dark
+    - dan beberapa perbaikan minor lainnya.
+
+v.1.7.0 (24/09/2025)
+    - Perbaikan script paginasi halaman "load more" terkadang error di perangkat seluler
+    - Perubahan format tanggal postingan, sekarang menampilkan tanggal publish artikel, bukan tanggal terakhir diperbarui
+    - Pembaruan script lazyload
+    - Resolusi gambar thumbnail diperbesar supaya tidak terlalu ngeblur
+    - dan beberapa perbaikan-perbaikan lainnya.
+
+v.1.8.0 (29/11/2025)
+    - Tambah 8 pilihan warna template
+    - Optimasi kode JavaScript
+    - Perbaikan fitur related posts dan baca juga error jika label menggunakan karakter unik.
+    - dan beberapa perbaikan-perbaikan lainnya.
+
+v.1.8.1 (29/12/2025)
+    - Perbaikan tanggal postingan tidak akurat.
